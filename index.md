@@ -1,1 +1,1 @@
-<iframe src="viewer.html" height="700" width="700"></iframe> 
+<iframe src="viewer.html"></iframe> 
